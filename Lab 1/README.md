@@ -4,8 +4,6 @@ A FastAPI-based machine learning service that classifies wine types based on che
 
 ## 🚀 Quick Start
 
-### Installation
-
 ```bash
 # Clone the repository
 git clone <your-repo-url>
