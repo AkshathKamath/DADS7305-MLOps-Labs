@@ -1,0 +1,5 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = gs://akshathkamath-dvc-lab
+    credentialpath = ../../GCP Account Key.json
