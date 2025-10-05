@@ -1,5 +1,5 @@
 outs:
-- md5: ec7b3902519431454159772231af070e
-  size: 260602
+- md5: 3bff37cb36528d84e588fcf6d2e573df
+  size: 218582
   hash: md5
   path: Coffe_sales.csv
